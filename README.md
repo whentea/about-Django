@@ -1,2 +1,2 @@
 # about-Django
-tango with django.......yeah
+tango with django.......python web framework
